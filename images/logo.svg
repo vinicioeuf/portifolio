@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="254"
+   height="42"
+   viewBox="0 0 67.204166 11.1125"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="2.6456983"
+     inkscape:cx="119.06119"
+     inkscape:cy="9.449301"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1113">
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1;"
+         offset="0"
+         id="stop1109" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:0;"
+         offset="1"
+         id="stop1111" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1113"
+       id="linearGradient1115"
+       x1="20.529501"
+       y1="4.4448876"
+       x2="84.141679"
+       y2="4.4448876"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.283356"
+       id="rect163"
+       width="2.1472597"
+       height="10.021501"
+       x="-1.6653347"
+       y="-11.786178"
+       transform="matrix(-0.47943818,0.87757566,-0.51673337,-0.85614638,0,0)" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.283055"
+       id="rect163-5"
+       width="2.0916564"
+       height="10.266085"
+       x="-12.141496"
+       y="-0.45832482"
+       transform="matrix(-0.51511033,-0.85712388,0.47785633,-0.87843801,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.6049px;fill:#cccccc;fill-opacity:1;stroke-width:1.13374"
+       x="16.568535"
+       y="8.935318"
+       id="text301"
+       transform="scale(0.83105893,1.2032841)"><tspan
+         sodipodi:role="line"
+         id="tspan299"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading';fill:#cccccc;fill-opacity:1;stroke-width:1.13374"
+         x="16.568535"
+         y="8.935318">EUFRAZIO</tspan></text>
+    <ellipse
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       id="path405"
+       cx="10.779877"
+       cy="9.7368927"
+       rx="1.0500536"
+       ry="1.1000561" />
+  </g>
+</svg>

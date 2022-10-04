@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="76"
+   height="76"
+   viewBox="0 0 20.108333 20.108333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="apple-touch-icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.7415825"
+     inkscape:cx="48.107987"
+     inkscape:cy="35.546457"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.292857"
+       id="rect1514"
+       width="4.2379799"
+       height="16.080687"
+       x="-3.3832281"
+       y="4.2985606"
+       transform="matrix(0.57790117,-0.81610676,0.59091714,0.80673226,0,0)" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.292857"
+       id="rect1514-9"
+       width="4.2153258"
+       height="16.167109"
+       x="16.398108"
+       y="-12.783881"
+       transform="matrix(0.59091714,0.80673226,-0.57790117,0.81610676,0,0)" />
+  </g>
+</svg>
