@@ -116,8 +116,8 @@
                 <div class="col-md-6">
                     <div class="message-box">                        
                         <h2>Sobre Vinicio.</h2>
-                        <p> Sou estudante do Ensino médio integrado ao curso técnico de informática no IFSertão Campus Salgueiro, isso mesmo, ensino médio 😀. Justamente ai que começei a me apaixonar pela programação e comecei a desenvolver meus primeiros projetos. Meu primeiro projeto de "fato" foi um site chamado 'Service Finder' tive a ideia juntamente com um amigo meu, @Álvaro Victor onde eu desenvolvi todo o front-end, o site tinha um intuito de uma "cópia" do linkedin, onde a gente contactava empresas da região e adicionavamos seu perfil no site para que as pessoas achassem seu serviços, já que por ser uma região pequena, apps de comida como ifood ou quero delivery não abrangem esta área. </p>
-						<p>O projeto está no ar e caso queira acessa-lo, basta clicar <a href="https://servicefinderpe.000webhostapp.com">aqui</a> e este foi meu primeiro projeto, desenvolvido inteiramente com HTML CSS E JS, puro, sem uso de frameworks, e assim finalizou-se meu primeiro projeto como desenvolvedor, ou quase...</p>
+                        <p> Sou estudante do Ensino médio integrado ao curso técnico de informática no IFSertão Campus Salgueiro, isso mesmo, ensino médio 😀. Justamente ai que começei a me apaixonar pela programação e comecei a desenvolver meus primeiros projetos.  </p>
+						<!-- <p>O projeto está no ar e caso queira acessa-lo, basta descer para a aba portfólio 😀 e este foi meu primeiro projeto, desenvolvido inteiramente com HTML CSS E JS, puro, sem uso de frameworks, e assim finalizou-se meu primeiro projeto como desenvolvedor, ou quase...</p> -->
 
                         <a href="#" class="sim-btn btn-hover-new" data-text="Download CV"><span>Baixar meu currículo</span></a>
                     </div><!-- end messagebox -->
@@ -141,35 +141,44 @@
             </div>
 			
 			<div class="gallery-menu row">
+                
 				<div class="col-md-12">
 					<div class="button-group filter-button-group text-left">
                         <button class="active" data-filter=".gal_c">Tudo</button>
                         <button data-filter=".gal_b">Back-end</button>
-						<button data-filter=".gal_a">Front-end</button>	
+						<button data-filter=".gal_a">Front-end</button>     
 					</div>
+                    <p>Todos os projetos estão rodando, clique para acessar.</p>
 				</div>
 			</div>
 			
 			<div class="gallery-list row">
-				<div class="col-md-4 col-sm-6 gallery-grid gal_b gal_c">
-					<div class="gallery-single fix">
-						<img src="uploads/labmaker1.jpg" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-                            <p style="color: white; text-align: center;">Projeto LabMaker - </p>
-							<!-- <a href="uploads/gallery_img-01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
-						</div>
-					</div>
+                <a href="https://labmaker-modify.herokuapp.com" target="_blank">
+                    <div class="col-md-4 col-sm-6 gallery-grid gal_b gal_c">
+                        <div class="gallery-single fix">
+                            <img src="uploads/labmaker1.jpg" class="img-fluid" alt="Image">
+                            <div class="img-overlay">
+                                <p style="color: white; text-align: center;">Projeto LabMaker - Atualmente para o meu Trabalho de conclusão de curso, estou desenvolvendo
+    um sistema para o recém implementado labmaker no IFSertao campus
+    Salgueiro, o sistema visa abrir as portas do labmaker para o público externo ao
+    campus, para que possam fazer o agendamento da sala caso necessário e
+    usufruir dos equipamentos presentes.</p>
+                                <!-- <a href="uploads/gallery_img-01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
+                            </div>
+                        </div>
 				</div>
-				
-				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
-					<div class="gallery-single fix">
-						<img src="uploads/servfinder.jpg" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-                            <p style="color: white; text-align: center;">Projeto Service Finder - </p>
-							<!-- <a href="uploads/gallery_img-02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
-						</div>
-					</div>
-				</div>
+                </a>
+				<a href="https://servicefinderpe.000webhostapp.com" target="_blank">
+                    <div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
+                        <div class="gallery-single fix">
+                            <img src="uploads/servfinder.jpg" class="img-fluid" alt="Image">
+                            <div class="img-overlay">
+                                <p style="color: white; text-align: center;">Projeto Service Finder - Meu primeiro projeto de "fato" foi um site chamado 'Service Finder', o site tinha um intuito de uma "cópia" do ifood, onde foram contactadas empresas da região e adicionavamos seu perfil no site para que as pessoas achassem seu serviços em um único lugar, já que por ser uma região pequena, apps de comida como ifood ou quero delivery não abrangem esta área.</p>
+                                <!-- <a href="uploads/gallery_img-02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </a>
 			</div>
 			</div>
 		</div>
