@@ -116,7 +116,7 @@
                 <div class="col-md-6">
                     <div class="message-box">                        
                         <h2>Sobre Vinicio.</h2>
-                        <p> Sou estudante do Ensino médio integrado ao curso técnico de informática no IFSertão Campus Salgueiro, isso mesmo, ensino médio 😀. Justamente ai que começei a me apaixonar pela programação e comecei a desenvolver meus primeiros projetos.  </p>
+                        <p> Sou estudante do Ensino médio integrado ao curso técnico de informática no IFSertão Campus Salgueiro, isso mesmo, ensino médio 😀. Justamente ai que começei a me apaixonar pela programação e comecei a desenvolver meus primeiros projetos. Com o tempo, programar se tornou um hobbie, todos os dias, vejo a necessidade de codar pelo menos um pouco, desde o meu inicio na programação de fato em 2020 até hoje 04-10-2022 meu entendimento e dissernimento em relação a conceitos de desenvolvimento se aprimoraram muito, claro o aprendizado faz parte do processo, e futuramente espero que esse processo contribua não só comigo, mas também que meus códigos ajudem pessoas ao meu redor, empresas, enfim quaisquer entidades... Bora codar 🙂?</p>
 						<!-- <p>O projeto está no ar e caso queira acessa-lo, basta descer para a aba portfólio 😀 e este foi meu primeiro projeto, desenvolvido inteiramente com HTML CSS E JS, puro, sem uso de frameworks, e assim finalizou-se meu primeiro projeto como desenvolvedor, ou quase...</p> -->
 
                         <a href="#" class="sim-btn btn-hover-new" data-text="Download CV"><span>Baixar meu currículo</span></a>
