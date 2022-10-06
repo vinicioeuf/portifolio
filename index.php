@@ -127,7 +127,7 @@
                                         -ms-transform: translateY(-8px);
                                         -o-transform: translateY(-8px);
                                         transform: translateY(-8px);
-                                        background-color: green;
+                                        
                                     }
                                 </style>
                     </div><!-- end media -->
