@@ -28,7 +28,7 @@
      showguides="true"
      inkscape:zoom="2.6456983"
      inkscape:cx="119.06119"
-     inkscape:cy="9.449301"
+     inkscape:cy="9.4493012"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -64,39 +64,39 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffffff;stroke-width:0.283356"
+       style="fill:#ffffff;stroke-width:0.273726"
        id="rect163"
-       width="2.1472597"
-       height="10.021501"
-       x="-1.6653347"
-       y="-11.786178"
-       transform="matrix(-0.47943818,0.87757566,-0.51673337,-0.85614638,0,0)" />
+       width="2.0724504"
+       height="9.6894894"
+       x="-1.3049519"
+       y="-11.67674"
+       transform="matrix(-0.49674448,0.86789684,-0.53443931,-0.84520686,0,0)" />
     <rect
-       style="fill:#ffffff;stroke-width:0.283055"
+       style="fill:#ffffff;stroke-width:0.273415"
        id="rect163-5"
-       width="2.0916564"
-       height="10.266085"
-       x="-12.141496"
-       y="-0.45832482"
-       transform="matrix(-0.51511033,-0.85712388,0.47785633,-0.87843801,0,0)" />
+       width="2.0221989"
+       height="9.9077044"
+       x="-12.019009"
+       y="-0.74436986"
+       transform="matrix(-0.53280308,-0.84623925,0.49514131,-0.86881246,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:13.6049px;fill:#cccccc;fill-opacity:1;stroke-width:1.13374"
-       x="16.568535"
-       y="8.935318"
+       style="font-size:13.2919px;fill:#cccccc;fill-opacity:1;stroke-width:1.10766"
+       x="16.187346"
+       y="9.1550217"
        id="text301"
-       transform="scale(0.83105893,1.2032841)"><tspan
+       transform="scale(0.85062917,1.1756004)"><tspan
          sodipodi:role="line"
          id="tspan299"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading';fill:#cccccc;fill-opacity:1;stroke-width:1.13374"
-         x="16.568535"
-         y="8.935318">EUFRAZIO</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading';fill:#cccccc;fill-opacity:1;stroke-width:1.10766"
+         x="16.187346"
+         y="9.1550217">EUFRAZIO</tspan></text>
     <ellipse
-       style="fill:#b3b3b3;stroke-width:0.264583"
+       style="fill:#b3b3b3;stroke-width:0.258496"
        id="path405"
        cx="10.779877"
-       cy="9.7368927"
+       cy="9.793972"
        rx="1.0500536"
-       ry="1.1000561" />
+       ry="1.0500208" />
   </g>
 </svg>
