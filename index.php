@@ -102,12 +102,34 @@
 						<!-- <p>O projeto está no ar e caso queira acessa-lo, basta descer para a aba portfólio 😀 e este foi meu primeiro projeto, desenvolvido inteiramente com HTML CSS E JS, puro, sem uso de frameworks, e assim finalizou-se meu primeiro projeto como desenvolvedor, ou quase...</p> -->
 
                         <a href="https://www.linkedin.com/in/vinicio-eufrazio-8a64a61a3/" class="sim-btn btn-hover-new" data-text="Linkedin"><span>Acompanhe meu linkedin</span></a>
+                        <a href="https://github.com/vinicioeuf" class="sim-btn btn-hover-new" data-text="Github"><span>Acompanhe meu Github</span></a>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
 
                 <div class="col-md-6">
                     <div class="right-box-pro wow fadeIn">
                         <img src="uploads/about_04.jpeg" alt="" class="img-fluid img-rounded">
+                        <style>
+                                    .img-fluid{
+                                        -webkit-transform: translateY(0);
+                                        -moz-transform: translateY(0);
+                                        -ms-transform: translateY(0);
+                                        -o-transform: translateY(0);
+                                        transform: translateY(0);
+                                        -webkit-transition: 0.5s;
+                                        -o-transition: 0.5s;
+                                        -moz-transition: 0.5s;
+                                        transition: 0.5s;
+                                    }
+                                    .img-fluid:hover{
+                                        -webkit-transform: translateY(-8px);
+                                        -moz-transform: translateY(-8px);
+                                        -ms-transform: translateY(-8px);
+                                        -o-transform: translateY(-8px);
+                                        transform: translateY(-8px);
+                                        background-color: green;
+                                    }
+                                </style>
                     </div><!-- end media -->
                 </div><!-- end col -->
             </div><!-- end row -->
@@ -155,6 +177,7 @@
                         <div class="gallery-single fix">
                             <img src="uploads/servfinder.jpg" class="img-fluid" alt="Image">
                             <div class="img-overlay">
+                                
                                 <p style="color: white; text-align: center;">Projeto Service Finder - Meu primeiro projeto de "fato" foi um site chamado 'Service Finder', o site tinha um intuito de uma "cópia" do ifood, onde foram contactadas empresas da região e adicionavamos seu perfil no site para que as pessoas achassem seu serviços em um único lugar, já que por ser uma região pequena, apps de comida como ifood ou quero delivery não abrangem esta área.</p>
                                 <!-- <a href="uploads/gallery_img-02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
                             </div>
