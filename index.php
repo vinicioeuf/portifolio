@@ -209,11 +209,17 @@
             <input type="text" name="telefone" id="" placeholder="Celular:" required>
             <input type="text" name="address" id="" placeholder="Endereço:" required>
 
-            <h5>Como encontrou meu site? Linkedin<input type="radio" name="op" id=""> Instagram<input type="radio" name="op" id=""> Projeto de Leo<input type="radio" name="op" id=""> Todas<input type="radio" name="op" id=""></h5>
+            <h5>Como encontrou meu site? Linkedin<input type="radio" name="op" id="" value="Linkedin"> Instagram<input type="radio" name="op" id="" value="Insta">  Projeto de Leo<input type="radio" name="op" id="" value="Projeto de Leo"> Todas<input type="radio" name="op" id="" value="Todas"></h5>
             
+            <select name="estado" id="">
+                <option value="" selected disabled>Selecionar estado</option>
+                <option value="pe">PE</option>
+                <option value="ce">CE</option>
+            </select>
             <br>
             <textarea name="message" id="" cols="30" rows="10" required></textarea>
             <br>
+            <h5 style="color: lightgreen;">Enviar arquivo: <input type="file" name="arquivo" id=""></h5>
             <button type="submit" name="submit">Enviar</button>
         </form>
     </div>
