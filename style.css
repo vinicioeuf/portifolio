@@ -2471,7 +2471,7 @@ select.mobile-device {
     transition: 1s;
 }
 #logoTiringa2:hover{
-    transition: 1s;
+    transition: 1.2s;
     width: 22%;
 }
 .navbar-default .btn-light {
