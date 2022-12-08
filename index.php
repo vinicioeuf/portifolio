@@ -56,6 +56,9 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#portfolio">Portfólio</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="#contact">Contato</a>
+            </li>
           </ul>
         </div>
       </div>
@@ -197,7 +200,23 @@
 			</div>
 		</div>
 	</div>
+    <div id="contact" class="section lb">
+        <form action="form.php" method="POST">
+            <input type="text" name="nome" id="" placeholder="Nome:" required>
+            <input type="email" name="email" id="" placeholder="Email:" required>
+            <input type="password" name="senha" id="" placeholder="Senha:" required>
 
+            <input type="text" name="telefone" id="" placeholder="Celular:" required>
+            <input type="text" name="address" id="" placeholder="Endereço:" required>
+
+            <h5>Como encontrou meu site? Linkedin<input type="radio" name="op" id=""> Instagram<input type="radio" name="op" id=""> Projeto de Leo<input type="radio" name="op" id=""> Todas<input type="radio" name="op" id=""></h5>
+            
+            <br>
+            <textarea name="message" id="" cols="30" rows="10" required></textarea>
+            <br>
+            <button type="submit" name="submit">Enviar</button>
+        </form>
+    </div>
     <div class="copyrights">
         <div class="container">
             <div class="footer-distributed">

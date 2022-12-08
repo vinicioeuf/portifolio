@@ -2441,7 +2441,39 @@ select.mobile-device {
 /*------------------------------------------------------------------
     BUTTONS
 -------------------------------------------------------------------*/
+#logoTiringa{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 100%;
+}
 
+.tabela{
+    position: absolute;
+    top: 5vh;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: rgb(0, 128, 100);
+    color: white;
+}
+
+#logoTiringa2{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    width: 20%;
+    transition: 1s;
+}
+#logoTiringa2:hover{
+    transition: 1s;
+    width: 22%;
+}
 .navbar-default .btn-light {
     padding: 0 20px;
     margin-left: 15px;
