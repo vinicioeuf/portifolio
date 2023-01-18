@@ -187,7 +187,7 @@
                 <a href="https://cedronews.herokuapp.com" target="_blank">
                     <div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
                         <div class="gallery-single fix">
-                            <img src="uploads/servfinder.jpg" class="img-fluid" alt="Image">
+                            <img src="uploads/test.png" class="img-fluid" alt="Image">
                             <div class="img-overlay">
                                 
                                 <p style="color: white; text-align: center;">Projeto Cedro News - É um blog que foi desenvolvido com o intuito de ambraanger aa comunicação ou seja, aumentar a circulação de noticias da minha região, no caso, Cedro-Pernambuco.</p>
