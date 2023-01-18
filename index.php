@@ -184,6 +184,18 @@
                         </div>
 				</div>
                 </a>
+                <a href="https://cedronews.herokuapp.com" target="_blank">
+                    <div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
+                        <div class="gallery-single fix">
+                            <img src="uploads/servfinder.jpg" class="img-fluid" alt="Image">
+                            <div class="img-overlay">
+                                
+                                <p style="color: white; text-align: center;">Projeto Cedro News - É um blog que foi desenvolvido com o intuito de ambraanger aa comunicação ou seja, aumentar a circulação de noticias da minha região, no caso, Cedro-Pernambuco.</p>
+                                <!-- <a href="uploads/gallery_img-02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </a>
 				<a href="https://servicefinderpe.000webhostapp.com" target="_blank">
                     <div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
                         <div class="gallery-single fix">
