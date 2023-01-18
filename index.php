@@ -212,6 +212,7 @@
 			</div>
 		</div>
 	</div>
+    
     <div id="contact" class="section lb">
         <form action="form.php" method="POST">
             <input type="text" name="nome" id="" placeholder="Nome:" required>
