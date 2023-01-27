@@ -56,9 +56,9 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#portfolio">Portfólio</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#contact">Contato</a>
-            </li>
+            </li> -->
           </ul>
         </div>
       </div>
@@ -112,10 +112,11 @@
                         <h2>Sobre Vinicio.</h2>
                         <p> Sou estudante do Ensino médio integrado ao curso técnico de informática no IFSertão Campus Salgueiro, isso mesmo, ensino médio 😀. Justamente ai que começei a me apaixonar pela programação e comecei a desenvolver meus primeiros projetos. Com o tempo, programar se tornou um hobbie, todos os dias, vejo a necessidade de codar pelo menos um pouco, desde o meu inicio na programação de fato em 2020 até hoje 04-10-2022 meu entendimento e dissernimento em relação a conceitos de desenvolvimento se aprimoraram muito, claro o aprendizado faz parte do processo, e futuramente espero que esse processo contribua não só comigo, mas também que meus códigos ajudem pessoas ao meu redor, empresas, enfim quaisquer entidades... Bora codar 🙂?</p>
 						<!-- <p>O projeto está no ar e caso queira acessa-lo, basta descer para a aba portfólio 😀 e este foi meu primeiro projeto, desenvolvido inteiramente com HTML CSS E JS, puro, sem uso de frameworks, e assim finalizou-se meu primeiro projeto como desenvolvedor, ou quase...</p> -->
-
-                        <a href="https://www.linkedin.com/in/vinicio-eufrazio-8a64a61a3/" class="sim-btn btn-hover-new" data-text="Linkedin"><span>Acompanhe meu linkedin</span></a>
-                        <a href="https://github.com/vinicioeuf" class="sim-btn btn-hover-new" data-text="Github"><span>Acompanhe meu Github</span></a>
+                        <?php include_once("social-media.php");?>
+                        <!-- <a href="https://www.linkedin.com/in/vinicio-eufrazio-8a64a61a3/" class="sim-btn btn-hover-new" data-text="Linkedin"><span>Acompanhe meu linkedin</span></a>
+                        <a href="https://github.com/vinicioeuf" class="sim-btn btn-hover-new" data-text="Github"><span>Acompanhe meu Github</span></a> -->
                     </div><!-- end messagebox -->
+                    
                 </div><!-- end col -->
 
                 <div class="col-md-6">
@@ -196,24 +197,24 @@
                         </div>
                     </div>
                 </a>
-				<a href="https://servicefinderpe.000webhostapp.com" target="_blank">
+				<!-- <a href="https://servicefinderpe.000webhostapp.com" target="_blank">
                     <div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
                         <div class="gallery-single fix">
                             <img src="uploads/servfinder.jpg" class="img-fluid" alt="Image">
                             <div class="img-overlay">
                                 
-                                <p style="color: white; text-align: center;">Projeto Service Finder - Meu primeiro projeto de "fato" foi um site chamado 'Service Finder', o site tinha um intuito de uma "cópia" do ifood, onde foram contactadas empresas da região e adicionavamos seu perfil no site para que as pessoas achassem seu serviços em um único lugar, já que por ser uma região pequena, apps de comida como ifood ou quero delivery não abrangem esta área.</p>
-                                <!-- <a href="uploads/gallery_img-02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
+                                <p style="color: white; text-align: center;">Este projeto não está mais disponProjeto Service Finder - Meu primeiro projeto de "fato" foi um site chamado 'Service Finder', o site tinha um intuito de uma "cópia" do ifood, onde foram contactadas empresas da região e adicionavamos seu perfil no site para que as pessoas achassem seu serviços em um único lugar, já que por ser uma região pequena, apps de comida como ifood ou quero delivery não abrangem esta área.</p>
+                                <a href="uploads/gallery_img-02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> 
                             </div>
                         </div>
                     </div>
-                </a>
+                </a> -->
 			</div>
 			</div>
 		</div>
 	</div>
     
-    <div id="contact" class="section lb">
+    <!-- <div id="contact" class="section lb">
         <form action="form.php" method="POST">
             <input type="text" name="nome" id="" placeholder="Nome:" required>
             <input type="email" name="email" id="" placeholder="Email:" required>
@@ -235,7 +236,7 @@
             <h5 style="color: lightgreen;">Enviar arquivo: <input type="file" name="arquivo" id=""></h5>
             <button type="submit" name="submit">Enviar</button>
         </form>
-    </div>
+    </div> -->
     <div class="copyrights">
         <div class="container">
             <div class="footer-distributed">
