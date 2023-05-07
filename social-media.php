@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="social.css">
+<!-- <link rel="stylesheet" href="social.css">
   <div class="main">
     <div class="navigation active">
       <span style="--i:0;--x:-1;--y:0;">
@@ -27,4 +27,4 @@
     close.onclick = function(){
       navigation.classList.remove('active')
     }
-</script>
+</script> -->
