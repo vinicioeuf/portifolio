@@ -64,7 +64,7 @@
       </div>
     </nav>
 	
-	<section id="home" class="main-banner parallaxie" style="background: url('uploads/banner-01.jpeg')">
+	<section id="home" class="main-banner parallaxie" style="background: url('uploads/perfil 17.jpeg')">
 		<div class="heading">
 			<h1>Olá, eu sou Vinicio Eufrazio</h1>
 			<p>"Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam."</p>
