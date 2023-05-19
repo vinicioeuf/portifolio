@@ -165,7 +165,7 @@
                         <button data-filter=".gal_b">Back-end</button>
 						<button data-filter=".gal_a">Front-end</button>     
 					</div>
-                    <p>Todos os projetos estão rodando, clique para acessar.</p>
+                    <p>Vale lembrar que meu foco é back-end mas consigo resolver algumas coisas no front se necessário :D. Todos os projetos estão rodando, clique para acessar.</p>
 				</div>
 			</div>
 			
@@ -191,7 +191,7 @@
                             <img src="uploads/test.png" class="img-fluid" alt="Image">
                             <div class="img-overlay">
                                 
-                                <p style="color: white; text-align: center;">Projeto Cedro News - É um blog que foi desenvolvido com o intuito de ambraanger aa comunicação ou seja, aumentar a circulação de noticias da minha região, no caso, Cedro-Pernambuco.</p>
+                                <p style="color: white; text-align: center;">Projeto Cedro News - É um blog que foi desenvolvido com o intuito de ambraanger aa comunicação ou seja, aumentar a circulação de noticias da minha região, no caso, Cedro-Pernambuco. E claro, ainda está em desenvolvimento.</p>
                                 <!-- <a href="uploads/gallery_img-02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
                             </div>
                         </div>
