@@ -56,6 +56,9 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#portfolio">Portfólio</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#tecnologias">Tecnologias</a>
+            </li>
             <!-- <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#contact">Contato</a>
             </li> -->
@@ -110,15 +113,19 @@
                 <div class="col-md-6">
                     <div class="message-box">                        
                         <h2>Sobre Vinicio.</h2>
-                        <p> Sou Técnico em informática pelo IFSertãoPE Campus Salgueiro 😀. Justamente ai que começei a me apaixonar pela programação e comecei a desenvolver meus primeiros projetos. Com o tempo, programar se tornou um hobbie, todos os dias, vejo a necessidade de codar pelo menos um pouco, desde o meu inicio na programação de fato em 2020 até atualmente, meu entendimento e dissernimento em relação a conceitos de desenvolvimento se aprimoraram muito, claro o aprendizado faz parte do processo, e futuramente espero que esse processo contribua não só comigo, mas também que meus códigos ajudem pessoas ao meu redor, empresas, enfim quaisquer entidades... Bora codar 🙂?</p>
+                        <p> Sou Técnico em informática pelo IFSertãoPE Campus Salgueiro 😀. Faço o curso Superior de tecnologia em sistemas para internet, Justamente durante meu ensino médio que começei a me apaixonar pela programação e comecei a desenvolver meus primeiros projetos. Com o tempo, programar se tornou um hobbie, todos os dias, vejo a necessidade de codar pelo menos um pouco, desde o meu inicio na programação de fato em 2020 até atualmente, meu entendimento e dissernimento em relação a conceitos de desenvolvimento se aprimoraram muito, claro o aprendizado faz parte do processo, e futuramente espero que esse processo contribua não só comigo, mas também que meus códigos ajudem pessoas ao meu redor, empresas, enfim quaisquer entidades... Bora codar 🙂?</p>
 						<!-- <p>O projeto está no ar e caso queira acessa-lo, basta descer para a aba portfólio 😀 e este foi meu primeiro projeto, desenvolvido inteiramente com HTML CSS E JS, puro, sem uso de frameworks, e assim finalizou-se meu primeiro projeto como desenvolvedor, ou quase...</p> -->
                         <?php include_once("social-media.php");?>
                        <a href="https://www.linkedin.com/in/vinicio-eufrazio-8a64a61a3/" target="_blank" class="sim-btn btn-hover-new" data-text="Linkedin"><span>Acompanhe meu linkedin</span></a>
                         <a href="https://github.com/vinicioeuf" class="sim-btn btn-hover-new" target="_blank" data-text="Github"><span>Acompanhe meu Github</span></a>
+                                             
+                       
+                        
+                        
                     </div><!-- end messagebox -->
                     
                 </div><!-- end col -->
-
+                
                 <div class="col-md-6">
                     <div class="right-box-pro wow fadeIn">
                         <img src="uploads/perfil 13.jpeg" alt="" class="img-fluid img-rounded">
@@ -170,6 +177,19 @@
 			</div>
 			
 			<div class="gallery-list row">
+
+                <a href="https://lingerieboutiq.herokuapp.com" target="_blank">
+                    <div class="col-md-4 col-sm-6 gallery-grid gal_b gal_c">
+                        <div class="gallery-single fix">
+                            <img src="uploads/logo2.png" class="img-fluid" alt="Image">
+                            <div class="img-overlay">
+                                <p style="color: white; text-align: center;">Lingerieboutiq - É um site de loja online especificamente um sex-shop local, o projeto foi desenvolvido com PHP como linguagem principal, e faz uso de algumas APIs, como o PHPMailer e Cloudinary. O cloudinary está sendo usado para fazer o armazenamento das imagens que são enviadas para o sistema.</p>
+                                <!-- <a href="uploads/gallery_img-01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
+                            </div>
+                        </div>
+				    </div>
+                </a>
+
                 <a href="https://labmaker-modify.herokuapp.com" target="_blank">
                     <div class="col-md-4 col-sm-6 gallery-grid gal_b gal_c">
                         <div class="gallery-single fix">
@@ -185,6 +205,7 @@
                         </div>
 				</div>
                 </a>
+                
                 <a href="https://cedronews.herokuapp.com" target="_blank">
                     <div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
                         <div class="gallery-single fix">
@@ -213,6 +234,23 @@
 			</div>
 		</div>
 	</div>
+    <section id="tecnologias">
+    <div class="container">
+        <div class="section-title text-left">
+            <h3>Tecnologias</h3>
+            
+            <img src="uploads/php21.png" alt="" class="img-thumbnail">
+            <img src="uploads/js2.png" alt="" class="img-thumbnail">
+            <img src="uploads/boot2.png" alt="" class="img-thumbnail">
+            <img src="uploads/mysql2.png" alt="" class="img-thumbnail">
+
+            <h3>APIs</h3>
+            <img src="uploads/phpmailer2.png" alt="" class="img-thumbnail">
+            <img src="uploads/cloudinary2.png" alt="" class="img-thumbnail">
+        </div>
+    </div>
+			
+	</section>
     
     <!-- <div id="contact" class="section lb">
         <form action="form.php" method="POST">
