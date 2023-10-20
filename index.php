@@ -203,7 +203,18 @@
                                 <!-- <a href="uploads/gallery_img-01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
                             </div>
                         </div>
-				</div>
+                    </div>
+                </a>
+                <a href="https://github.com/vinicioeuf/acessobiometrico/tree/main/app" target="_blank">
+                    <div class="col-md-4 col-sm-6 gallery-grid gal_b gal_c">
+                        <div class="gallery-single fix">
+                            <img src="uploads/labmaker1.jpg" class="img-fluid" alt="Image">
+                            <div class="img-overlay">
+                                <p style="color: white; text-align: center;">Aplicativo do LabMaker - É um aprimoramento do projeto anterior, estamos incluindo um sistema de acesso biométrico ao laboratório maker, e para gerenciar os acessos, propôs-se o desenvolvimento desse aplicativo, o app ainda está em desenvolvimento, porém o projeto pode ser acessado no github vale ressaltar que o app está sendo desenvolvido com Flutter e Firebase.</p>
+                                <!-- <a href="uploads/gallery_img-01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
                 </a>
                 
                 <a href="https://cedronews.herokuapp.com" target="_blank">
