@@ -128,7 +128,7 @@
                 
                 <div class="col-md-6">
                     <div class="right-box-pro wow fadeIn">
-                        <img src="uploads/perfil 13.jpeg" alt="" class="img-fluid img-rounded">
+                        <img src="uploads/vinicio.jpg" alt="" class="img-fluid img-rounded">
                         <style>
                                     .img-fluid{
                                         -webkit-transform: translateY(0);
@@ -208,7 +208,7 @@
                 <a href="https://github.com/vinicioeuf/acessobiometrico/tree/main/app" target="_blank">
                     <div class="col-md-4 col-sm-6 gallery-grid gal_b gal_c">
                         <div class="gallery-single fix">
-                            <img src="uploads/labmaker1.jpg" class="img-fluid" alt="Image">
+                            <img src="uploads/labmakerapp.jpg" class="img-fluid" alt="Image">
                             <div class="img-overlay">
                                 <p style="color: white; text-align: center;">Aplicativo do LabMaker - É um aprimoramento do projeto anterior, estamos incluindo um sistema de acesso biométrico ao laboratório maker, e para gerenciar os acessos, propôs-se o desenvolvimento desse aplicativo, o app ainda está em desenvolvimento, porém o projeto pode ser acessado no github vale ressaltar que o app está sendo desenvolvido com Flutter e Firebase.</p>
                                 <!-- <a href="uploads/gallery_img-01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
@@ -249,13 +249,14 @@
     <div class="container">
         <div class="section-title text-left">
             <h3>Tecnologias</h3>
-            
+            <img src="uploads/flutter.png" alt="" class="img-thumbnail">
             <img src="uploads/php21.png" alt="" class="img-thumbnail">
             <img src="uploads/js2.png" alt="" class="img-thumbnail">
             <img src="uploads/boot2.png" alt="" class="img-thumbnail">
             <img src="uploads/mysql2.png" alt="" class="img-thumbnail">
 
             <h3>APIs</h3>
+            <img src="uploads/firebase.png" alt="" class="img-thumbnail">
             <img src="uploads/phpmailer2.png" alt="" class="img-thumbnail">
             <img src="uploads/cloudinary2.png" alt="" class="img-thumbnail">
         </div>
