@@ -1,4 +1,8 @@
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+<body>
+    <style>body{color: white;}</style>
+
 <?php
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
@@ -45,8 +49,8 @@ if(isset($_POST['submit'])){
     }
     $inserirNoBanco = "INSERT INTO propostas (tipoprojeto, nomeprojeto, emaildodono, descricao, valor) VALUES ('$tipoProjeto', '$nomeProjeto', '$emailDoDono', '$descricao', '$valor')";
     $stmt = $con->query($inserirNoBanco);
+    $mail = new PHPMailer(true);
     try {
-
         $mail->SMTPDebug = SMTP::DEBUG_SERVER;                     
         $mail->isSMTP();                                           
         $mail->Host       = 'smtp.gmail.com';                    
@@ -56,8 +60,8 @@ if(isset($_POST['submit'])){
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;          
         $mail->Port       = 465;                              
     
-        $mail->setFrom('vinicio.eufrazio@aluno.ifsertao-pe.edu.br', 'LabMaker IFSalgueiro');// Remetente
-        $mail->addAddress($email, $nomeProjeto); //Email de quem fez a solicitação
+        $mail->setFrom('vinicio.eufrazio@aluno.ifsertao-pe.edu.br', "Orcamento $nomeProjeto");// Remetente
+        $mail->addAddress($emailDoDono, $nomeProjeto); //Email de quem fez a solicitação
         $mail->addReplyTo('vinicio.eufrazio@aluno.ifsertao-pe.edu.br', 'Information');
         
         $mail->isHTML(true);        
@@ -65,8 +69,8 @@ if(isset($_POST['submit'])){
         date_default_timezone_set('America/Sao_Paulo');
             
         $agora = date('d/m/Y H:i'); 
-        $mail->Subject = "Orçamento $nome";
-        $mail->Body    = "Nome do projeto: $nome\nDescrição do projeto: $descricao\nValor aproximado: R$$valor\nEm breve retornaremos para acertarmos detalhes da proposta!";
+        $mail->Subject = "Orcamento $nomeProjeto";
+        $mail->Body    = "Nome do projeto: $nomeProjeto\nDescrição do projeto: $descricao\nValor aproximado: R$$valor\nEm breve retornaremos para acertarmos detalhes da proposta!";
         $mail->AltBody = 'Valor e detalhes';
     // pegar email logado da sessao e enviar junto com email pra mostrar quem aprovou ou negou a soliciataçao
         
@@ -87,3 +91,4 @@ if(isset($_POST['submit'])){
 
 
 ?>
+</body>
