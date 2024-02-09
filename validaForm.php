@@ -11,6 +11,16 @@ use PHPMailer\PHPMailer\Exception;
 //Load Composer's autoloader
 require 'vendor/autoload.php';
 require('conexao.php');
+if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
+    echo "<script>swal({
+        text: 'Acesso negado.',
+        icon: 'danger',
+    }).then((result) => {
+        window.location.href='orcamento.php';
+      });</script>"; 
+    // header('Location: orcamento.php');
+    exit;
+}
 if(isset($_POST['submit'])){
     $con = Conexao::getInstance();
     $tipoProjeto = $_POST['select'];
