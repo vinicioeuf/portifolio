@@ -59,9 +59,9 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#tecnologias">Tecnologias</a>
             </li>
-            <!-- <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#contact">Contato</a>
-            </li> -->
+            <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="orcamento.php">Pedir orçamento</a>
+            </li>
           </ul>
         </div>
       </div>
@@ -229,18 +229,7 @@
                         </div>
                     </div>
                 </a>
-				<!-- <a href="https://servicefinderpe.000webhostapp.com" target="_blank">
-                    <div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
-                        <div class="gallery-single fix">
-                            <img src="uploads/servfinder.jpg" class="img-fluid" alt="Image">
-                            <div class="img-overlay">
-                                
-                                <p style="color: white; text-align: center;">Este projeto não está mais disponProjeto Service Finder - Meu primeiro projeto de "fato" foi um site chamado 'Service Finder', o site tinha um intuito de uma "cópia" do ifood, onde foram contactadas empresas da região e adicionavamos seu perfil no site para que as pessoas achassem seu serviços em um único lugar, já que por ser uma região pequena, apps de comida como ifood ou quero delivery não abrangem esta área.</p>
-                                <a href="uploads/gallery_img-02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> 
-                            </div>
-                        </div>
-                    </div>
-                </a> -->
+
 			</div>
 			</div>
 		</div>
@@ -263,30 +252,7 @@
     </div>
 			
 	</section>
-    
-    <!-- <div id="contact" class="section lb">
-        <form action="form.php" method="POST">
-            <input type="text" name="nome" id="" placeholder="Nome:" required>
-            <input type="email" name="email" id="" placeholder="Email:" required>
-            <input type="password" name="senha" id="" placeholder="Senha:" required>
 
-            <input type="text" name="telefone" id="" placeholder="Celular:" required>
-            <input type="text" name="address" id="" placeholder="Endereço:" required>
-
-            <h5>Como encontrou meu site? Linkedin<input type="radio" name="op" id="" value="Linkedin"> Instagram<input type="radio" name="op" id="" value="Insta">  Projeto de Leo<input type="radio" name="op" id="" value="Projeto de Leo"> Todas<input type="radio" name="op" id="" value="Todas"></h5>
-            
-            <select name="estado" id="">
-                <option value="" selected disabled>Selecionar estado</option>
-                <option value="pe">PE</option>
-                <option value="ce">CE</option>
-            </select>
-            <br>
-            <textarea name="message" id="" cols="30" rows="10" required></textarea>
-            <br>
-            <h5 style="color: lightgreen;">Enviar arquivo: <input type="file" name="arquivo" id=""></h5>
-            <button type="submit" name="submit">Enviar</button>
-        </form>
-    </div> -->
     <div class="copyrights">
         <div class="container">
             <div class="footer-distributed">
