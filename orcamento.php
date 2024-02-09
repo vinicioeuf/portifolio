@@ -107,14 +107,14 @@
                 <form action="validaForm.php" method="post">
                     <select class="form-select form-select-md mb-3" name="select" aria-label="Large select example">
                         <option selected disabled>Tipo de projeto</option>
-                        <option value="1">Web: E-commerce</option>
-                        <option value="2">Web: Blog</option>
-                        <option value="3">Web: Controle de estoque</option>
-                        <option value="4">Web: Outro</option>
-                        <option value="5">Aplicativo: Android</option>
-                        <option value="6">Aplicativo: IOS</option>
-                        <option value="7">Aplicativo: Android e IOS</option>
-                        <option value="8">Aplicativo: Outro</option>
+                        <option value="Web: E-commerce">Web: E-commerce</option>
+                        <option value="Web: Blog">Web: Blog</option>
+                        <option value="Web: Controle de estoque">Web: Controle de estoque</option>
+                        <option value="Web: Outro">Web: Outro</option>
+                        <option value="Aplicativo: Android">Aplicativo: Android</option>
+                        <option value="Aplicativo: IOS">Aplicativo: IOS</option>
+                        <option value="Aplicativo: Android e IOS">Aplicativo: Android e IOS</option>
+                        <option value="Aplicativo: Outro">Aplicativo: Outro</option>
                     </select>
                     <div class="input-group mb-3">
                         <span class="input-group-text" id="basic-addon1">Nome</span>
@@ -135,7 +135,7 @@
                         <textarea class="form-control"  name="detalhes" aria-label="With textarea"></textarea>
                     </div>
                     <br>
-                    <button type="submit" name="enviar" class="btn btn-success">Enviar</button>
+                    <button type="submit" name="submit" class="btn btn-success">Enviar</button>
                 </form>
 
             </div>
