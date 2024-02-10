@@ -161,7 +161,8 @@
 			<div class="section-title text-left">
                 <h3>Portfólio</h3>
                 <p>Eis abaixo todos os meus projetos atuando como desenvolvedor.</p><br>
-                <p>Fiz a divisão dos projetos majoritariamente pelo processo que eu participei mais ativamente, em alguns trabalhei mais no back outros no front.</p>
+                <p>Fiz a divisão dos projetos majoritariamente pelo processo que eu participei mais ativamente, em alguns trabalhei mais no back outros no front.</p><br>
+                <p>Baixe o meu currículo <a href="uploads/curriculo.pdf" download>aqui</a></p>
             </div>
 			
 			<div class="gallery-menu row">
@@ -217,18 +218,7 @@
                     </div>
                 </a>
                 
-                <a href="https://cedronews.herokuapp.com" target="_blank">
-                    <div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
-                        <div class="gallery-single fix">
-                            <img src="uploads/test.png" class="img-fluid" alt="Image">
-                            <div class="img-overlay">
-                                
-                                <p style="color: white; text-align: center;">Projeto Cedro News - É um blog que foi desenvolvido com o intuito de ambraanger aa comunicação ou seja, aumentar a circulação de noticias da minha região, no caso, Cedro-Pernambuco. E claro, ainda está em desenvolvimento.</p>
-                                <!-- <a href="uploads/gallery_img-02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
-                            </div>
-                        </div>
-                    </div>
-                </a>
+                
 
 			</div>
 			</div>

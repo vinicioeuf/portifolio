@@ -80,7 +80,7 @@ if(isset($_POST['submit'])){
             
         $agora = date('d/m/Y H:i'); 
         $mail->Subject = "Orcamento $nomeProjeto";
-        $mail->Body    = "Nome do projeto: $nomeProjeto\nDescrição do projeto: $descricao\nValor aproximado: R$$valor\nEm breve retornaremos para acertarmos detalhes da proposta!";
+        $mail->Body    = "Nome do projeto: $nomeProjeto<br>Descrição do projeto: $descricao<br>Valor aproximado: R$$valor<br>Em breve retornaremos para acertarmos detalhes da proposta!";
         $mail->AltBody = 'Valor e detalhes';
     // pegar email logado da sessao e enviar junto com email pra mostrar quem aprovou ou negou a soliciataçao
         
@@ -89,6 +89,7 @@ if(isset($_POST['submit'])){
     } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }
+    
     echo "<script>swal({
         text: 'Solicitação feita! O valor foi enviado no seu e-mail!.',
         icon: 'success',
