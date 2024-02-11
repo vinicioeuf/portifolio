@@ -54,7 +54,7 @@
               <a class="nav-link js-scroll-trigger" href="#about">Sobre mim</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio">Portfólio</a>
+              <a class="nav-link js-scroll-trigger" href="#portfolio">Projetos</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#tecnologias">Tecnologias</a>
@@ -114,7 +114,7 @@
                     <div class="message-box">                        
                         <h2>Sobre Vinicio.</h2>
                         <p> Sou Técnico em informática pelo IFSertãoPE Campus Salgueiro 😀. Faço o curso Superior de tecnologia em sistemas para internet, Justamente durante meu ensino médio que começei a me apaixonar pela programação e comecei a desenvolver meus primeiros projetos. Com o tempo, programar se tornou um hobbie, todos os dias, vejo a necessidade de codar pelo menos um pouco, desde o meu inicio na programação de fato em 2020 até atualmente, meu entendimento e dissernimento em relação a conceitos de desenvolvimento se aprimoraram muito, claro o aprendizado faz parte do processo, e futuramente espero que esse processo contribua não só comigo, mas também que meus códigos ajudem pessoas ao meu redor, empresas, enfim quaisquer entidades... Bora codar 🙂?</p>
-						<!-- <p>O projeto está no ar e caso queira acessa-lo, basta descer para a aba portfólio 😀 e este foi meu primeiro projeto, desenvolvido inteiramente com HTML CSS E JS, puro, sem uso de frameworks, e assim finalizou-se meu primeiro projeto como desenvolvedor, ou quase...</p> -->
+						<!-- <p>O projeto está no ar e caso queira acessa-lo, basta descer para a aba Projetos 😀 e este foi meu primeiro projeto, desenvolvido inteiramente com HTML CSS E JS, puro, sem uso de frameworks, e assim finalizou-se meu primeiro projeto como desenvolvedor, ou quase...</p> -->
                         <?php include_once("social-media.php");?>
                        <a href="https://www.linkedin.com/in/vinicio-eufrazio-8a64a61a3/" target="_blank" class="sim-btn btn-hover-new" data-text="Linkedin"><span>Acompanhe meu linkedin</span></a>
                         <a href="https://github.com/vinicioeuf" class="sim-btn btn-hover-new" target="_blank" data-text="Github"><span>Acompanhe meu Github</span></a>
@@ -159,7 +159,7 @@
 	<div id="portfolio" class="section lb">
 		<div class="container">
 			<div class="section-title text-left">
-                <h3>Portfólio</h3>
+                <h3>Projetos</h3>
                 <p>Eis abaixo todos os meus projetos atuando como desenvolvedor.</p><br>
                 <p>Fiz a divisão dos projetos majoritariamente pelo processo que eu participei mais ativamente, em alguns trabalhei mais no back outros no front.</p><br>
                 <p>Baixe o meu currículo <a href="uploads/curriculo.pdf" download>aqui</a></p>
@@ -206,7 +206,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="https://github.com/vinicioeuf/acessobiometrico/tree/main/app" target="_blank">
+                <a href="uploads/app-labmaker.apk" download>
                     <div class="col-md-4 col-sm-6 gallery-grid gal_b gal_c">
                         <div class="gallery-single fix">
                             <img src="uploads/labmakerapp.jpg" class="img-fluid" alt="Image">
@@ -217,10 +217,7 @@
                         </div>
                     </div>
                 </a>
-                
-                
-
-			</div>
+			    </div>
 			</div>
 		</div>
 	</div>
