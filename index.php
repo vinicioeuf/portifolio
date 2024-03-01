@@ -190,6 +190,17 @@
                         </div>
 				    </div>
                 </a>
+                <a href="https://techinnovatestore.flutterflow.app/" target="_blank">
+                    <div class="col-md-4 col-sm-6 gallery-grid gal_b gal_c gal_a">
+                        <div class="gallery-single fix">
+                            <img src="uploads/agneural.png" class="img-fluid" alt="Image">
+                            <div class="img-overlay">
+                                <p style="color: white; text-align: center;">TechInnova Store - É uma loja online de dispositivos eletronicos, desenvolvido com a plataforma FlutterFlow, com base na linguagem Flutter que agiliza muito o desenvolvimento de apps mobile.</p>
+                                <!-- <a href="uploads/gallery_img-01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a> -->
+                            </div>
+                        </div>
+				    </div>
+                </a>
 
                 <a href="https://labmaker-modify.herokuapp.com" target="_blank">
                     <div class="col-md-4 col-sm-6 gallery-grid gal_b gal_c">
@@ -230,11 +241,21 @@
             <img src="uploads/js2.png" alt="" class="img-thumbnail">
             <img src="uploads/boot2.png" alt="" class="img-thumbnail">
             <img src="uploads/mysql2.png" alt="" class="img-thumbnail">
-
+            <br>
+            <br>
+            <br>
+            <br>                                    
             <h3>APIs</h3>
-            <img src="uploads/firebase.png" alt="" class="img-thumbnail">
-            <img src="uploads/phpmailer2.png" alt="" class="img-thumbnail">
-            <img src="uploads/cloudinary2.png" alt="" class="img-thumbnail">
+            <img src="uploads/firebase.png" alt="" class="img-thumbnail" style="width: 25%;">
+            <img src="uploads/phpmailer2.png" alt="" class="img-thumbnail" style="width: 25%;">
+            <img src="uploads/cloudinary2.png" alt="" class="img-thumbnail" style="width: 25%;">
+            <style>
+                .img-thumbnail{
+                    margin: 10px;
+                    width: 20%;
+                    height: 250px;
+                }
+            </style>
         </div>
     </div>
 			
