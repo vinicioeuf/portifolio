@@ -217,7 +217,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="uploads/app-labmaker.apk" download>
+                <a href="labmaker.php">
                     <div class="col-md-4 col-sm-6 gallery-grid gal_b gal_c">
                         <div class="gallery-single fix">
                             <img src="uploads/labmakerapp.jpg" class="img-fluid" alt="Image">
