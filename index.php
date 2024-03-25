@@ -252,8 +252,8 @@
             <style>
                 .img-thumbnail{
                     margin: 10px;
-                    width: 20%;
-                    height: 250px;
+                    width: 15vw;
+                    height: 15vw;
                 }
                 @media(max-width: 767){
                     .img-thumbnail{
