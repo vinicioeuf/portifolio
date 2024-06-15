@@ -9,9 +9,9 @@ class Conexao{
     
     public static function getInstance() {
         if (!isset(self::$instance)) {
-            self::$instance = new PDO('pgsql:host=ec2-35-169-9-79.compute-1.amazonaws.com;
-           dbname=d4377ojrri8vrc',
-                'lmzampblrqbgyd', '0aa958d2b23dfac467f50351a3a838059e3e249a52f0f2198105f3a3e79a3f42');
+            self::$instance = new PDO('pgsql:host=bwjn0f5nbmcqikcrukjh-postgresql.services.clever-cloud.com;
+           dbname=bwjn0f5nbmcqikcrukjh',
+                'utvkbvo93frb1bep5u0w', 'jkrnCbntPcMZOnKviE7m2bNzl0yLJ6');
             self::$instance->setAttribute(PDO::ATTR_ERRMODE,
                 PDO::ERRMODE_EXCEPTION);
             self::$instance->setAttribute(PDO::ATTR_ORACLE_NULLS,
